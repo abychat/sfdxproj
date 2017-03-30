@@ -10,7 +10,7 @@ var date3 = '{!TODAY() + 24}';
 <apex:image value="{!URLFOR($Resource.TrialPortalBanner)}" width="804" style="margin-bottom: 3px;"/>
 <apex:form >   
    <!-- This section shows the customer's recent cases in a table -->
-    <apex:pageBlock title="My Recent Cases">
+    <apex:pageBlock title="Most Recent Cases">
       <apex:pageBlockTable value="{!MyRecentCases}" var="currentCase" id="caseTable">
          <apex:column >
             <apex:facet name="header">
