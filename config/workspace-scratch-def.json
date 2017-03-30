@@ -1,0 +1,10 @@
+{
+  "Company": "achaturvedi Company",
+  "Country": "US",
+  "LastName": "achaturvedi",
+  "Email": "achaturvedi@example.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
