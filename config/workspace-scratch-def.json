@@ -5,8 +5,12 @@
   "Email": "achaturvedi@example.com",
   "Edition": "Developer",
   "OrgPreferences" : {
+<<<<<<< HEAD
     "S1DesktopEnabled" : true,
     "ChatterEnabled": true,
     "IsKnowledgeEnabled": true
+=======
+    "S1DesktopEnabled" : true
+>>>>>>> branch 'feature_1' of https://github.com/abychat/sfdxproj.git
   }
 }
